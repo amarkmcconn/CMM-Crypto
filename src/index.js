@@ -75,7 +75,7 @@ $(document).ready(function() {
     $('#coin-price').text(`Current Price: ${parseFloat(body[0].price).toFixed(2)}`);
     $('#price-change').text("");
     $('#volume').text(`One Day Volume: $${body[0]["1d"].volume}`);
-    $('#market-cap').text(`Market Cap: ${body[0].market_cap}`)
+    $('#market-cap').text(`Market Cap: ${body[0].market_cap}`);
 
     });
   });
