@@ -18,6 +18,7 @@
 
 _This webpage displays the top 4 currency prices in the header. The user can pick between the top 10 coins to see information about it. They can also choose an interval of 1day, 7days, 30days, 365days or year-to-date. The page will fetch information from Nomics API. It will display current price & price change and volume for selected time interval. There's also a more info button to begin going down the rabbit hole._
 
+![image](https://user-images.githubusercontent.com/101524368/170919051-d03fa7a4-403e-4b00-a036-1639b4bc9ae6.png)
 
 ## Necessary Tools
 
